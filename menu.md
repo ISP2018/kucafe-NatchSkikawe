@@ -4,11 +4,19 @@
 
 | Description                | Price (Bt) |
 |:---------------------------|-----:|
+<<<<<<< HEAD
 | Apple, Banana, Orange (ea) |   8  |
 | Fried Eggs with rice       |  40  |
 | Miso Soup with Tofu        |  35  |
 | Rice Porridge with Chicken |  10  |
 | Toast with butter & jam    |  10  |
+=======
+| Apple, Banana, Orange (ea) |  15  |
+| Fried Eggs with rice       |  35  |
+| Miso Soup with Tofu        |  20  |
+| Rice Porridge with Chicken |  20  |
+| Toast with butter & jam    |  15  |
+>>>>>>> breakfast
 | Waffles                    |  25  |
 
 ## Beverages
